@@ -1,12 +1,12 @@
 <html>
 	<head>
 		<title>Joseph Boyle - I compile, therefore I am</title>
-		<link rel="stylesheet" href="http://josephboyle.me/style.css">
+		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
 			<div class = "wrapper">
 				<div class = "left">
-					<img src = "http://josephboyle.me/profile.png" width = "225" height = "225"/>
+					<img src = "profile.png" width = "225" height = "225"/>
 					<div class = "center-left">
 						<h1>Joseph Boyle</h1>
 						<h3><a href = "http://www.github.com/joeb3219">Github</a></h3>
@@ -28,7 +28,7 @@
 					</div>
 					<h2>Research:</h2>
 						<div class = "offset">
-							<a href = "http://www.josephboyle.me/independent_study_report.pdf">Extending Photographic Steganography to Android: Realtime Camera Display Messaging using a Smartphone Camera</a> (<a href="https://github.com/mathski/visualmimo">GitHub</a>)<br>
+							<a href = "independent_study_report.pdf">Extending Photographic Steganography to Android: Realtime Camera Display Messaging using a Smartphone Camera</a> (<a href="https://github.com/mathski/visualmimo">GitHub</a>)<br>
 							<a href = "https://github.com/joeb3219/vmimo-bench">Visual MIMO Testing Bench</a><br>
 						</div>
 					<h2>Projects:</h2>
